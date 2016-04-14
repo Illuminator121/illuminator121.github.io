@@ -1,0 +1,88 @@
+.navlist {
+	width: 80% ;
+	margin: 0 auto; 
+}
+
+header{
+	background-color: #CBE896;
+	padding-top: 10px;
+
+}
+header h1{
+	text-align:right;
+	margin-right: 10px;
+}
+
+nav{
+	background-color: #CBE896;
+	padding: 10px;
+}
+
+nav ul{
+	list-style-type: none;
+	text-align: center;
+}
+
+nav ul li {
+	display: inline-block;
+	margin: 0 10px;
+	font-size: 20px;
+}
+
+li a:link, li a:hover, li a:active ,li a:visited {
+	text-decoration: none;
+	color: #000;
+}
+li a:hover{
+	text-decoration: underline;
+	font-weight: bold;
+
+}
+h1 {
+	background-color: #49220A;
+	font:Rage Italic;
+	font-size: 56px;
+	color: #BDAA84;
+	display: inline-block;
+	width: auto;
+	padding: auto;
+}
+.resize {
+    width:250px;
+    
+}
+.Loser {
+	background-color: #49220A;
+	font:Rage Italic;
+	font-size: 40px;
+	color: #BDAA84;
+}
+.Style {
+	background-color: #BDAA84;
+	width: auto;
+	padding: auto;
+}
+main {
+	background-color: #F1BB87;
+
+}
+section {
+	width: auto;
+	padding: auto;
+	display: inline-block;
+	background-color: #57453B;
+}
+aside {
+	width: 15%;
+	padding: auto;
+	float: right;
+}
+footer {
+	text-align: center;
+	background-color: #FF5E5B;
+	padding: 10px;
+}
+iframe {
+	width: auto;
+	height: auto;
+}
